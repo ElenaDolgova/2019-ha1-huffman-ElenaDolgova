@@ -1,0 +1,28 @@
+digraph G {
+nodesep = 0.8;
+ranksep = 0.5;
+
+"узел" [label = "", margin = 0 fontcolor = black fontsize = 32  shape = star]
+"узел1" [label = "", margin = 0 fontcolor = black fontsize = 32  shape = star]
+"узел2" [label = "", margin = 0 fontcolor = black fontsize = 32  shape = star]
+"узел4" [label = "", margin = 0 fontcolor = black fontsize = 32  shape = star]
+"узел5" [label = "", margin = 0 fontcolor = black fontsize = 32  shape = star]
+
+node [margin = 0 fontcolor = black fontsize = 32 shape = box3d]
+
+"узел" -> a [label = "0",weight = "0",fontsize = 32]
+"узел" -> "узел1" [label = "1",weight = "1",fontsize = 32]
+"узел2" -> "узел5" [label = "0",weight = "0",fontsize = 32]
+"узел2" -> b [label = "1",weight = "1",fontsize = 32]
+"узел1" -> "узел2" [label = "1",weight = "1",fontsize = 32]
+
+
+"узел1"->"узел4" [label = "0",weight = "0",fontsize = 32]
+"узел4"-> c [label = "0",weight = "0",fontsize = 32]
+"узел4"-> d [label = "1",weight = "1",fontsize = 32]
+"узел5" -> e [label = "0",weight = "0",fontsize = 32]
+"узел5" -> x [label = "1",weight = "1",fontsize = 32]
+
+
+
+}

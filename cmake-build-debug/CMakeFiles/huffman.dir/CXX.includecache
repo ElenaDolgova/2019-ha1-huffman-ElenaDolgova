@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elena-dolgova/CLionProjects/2019-ha1-huffman-ElenaDolgova/huffman.cpp
+set
+-
+map
+-
+vector
+-
+bitset
+-
+climits
+-
+iostream
+-
+fstream
+-
+cmath
+-
+queue
+-
+
+/Users/elena-dolgova/CLionProjects/2019-ha1-huffman-ElenaDolgova/huffman.hpp
+
+/Users/elena-dolgova/CLionProjects/2019-ha1-huffman-ElenaDolgova/main.cpp
+string
+-
+queue
+-
+iostream
+-
+huffman.hpp
+/Users/elena-dolgova/CLionProjects/2019-ha1-huffman-ElenaDolgova/huffman.hpp
+

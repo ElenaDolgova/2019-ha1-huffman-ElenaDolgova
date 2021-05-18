@@ -1,0 +1,3 @@
+/Users/elena-dolgova/CLionProjects/2019-ha1-huffman-ElenaDolgova/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/elena-dolgova/CLionProjects/2019-ha1-huffman-ElenaDolgova/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/elena-dolgova/CLionProjects/2019-ha1-huffman-ElenaDolgova/cmake-build-debug/CMakeFiles/huffman.dir
